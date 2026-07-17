@@ -1,2 +1,2 @@
-# https-vejtechperu.github.io
+vejtechperu.github.io
 TECNOLOGIA
